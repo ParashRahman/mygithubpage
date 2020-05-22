@@ -1,4 +1,4 @@
-var blogposts = ['rap', 'sample1', 'sample2'];
+var blogposts = ['booklist.html'];
 
 var blogpage = `
 <div class='blogpage'>
