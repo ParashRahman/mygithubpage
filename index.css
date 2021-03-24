@@ -2,3 +2,18 @@
 }
 .menubtn:last-child {
 }
+.nameheader {
+    width: 100%;
+    display: inline-flex;
+    align-items: flex-end; /*vertical*/
+    justify-content: center; /*horizontal*/
+}
+.profile_pic {
+    display: block;
+    margin: 0 auto;
+}
+.frontpage_section {
+    margin: 0 auto;  /* center the div */
+    min-width: 500px;
+    max-width: 1000px;
+}
