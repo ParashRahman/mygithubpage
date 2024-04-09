@@ -11,6 +11,9 @@
 .profile_pic {
     display: block;
     margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .frontpage_section {
     margin: 0 auto;  /* center the div */
